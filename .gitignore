@@ -1,0 +1,23 @@
+# Dependencies
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Data
+data/
+*.db
+*.xlsx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
