@@ -1,23 +1,6 @@
-# Dependencies
 .venv/
 venv/
 __pycache__/
-*.pyc
-*.pyo
-
-# Env / secrets
 .env
-.env.*
-!.env.example
-
-# Data
-data/
-*.db
-*.xlsx
-
-# OS / editor
+*.pyc
 .DS_Store
-Thumbs.db
-.idea/
-.vscode/
-*.log
